@@ -3,7 +3,7 @@ SkyCast Elite 🌤️✨
 
 This contains everything you need to run your app locally.
 
-Visit: https://skycast-elite.netlify.app
+Visit: https://skycast-elite1.netlify.app
 
 #OR
 
