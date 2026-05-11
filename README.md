@@ -14,5 +14,6 @@ Visit: https://skycast-elite1.netlify.app
 
 1. Install dependencies:
    `npm install`
-2. Run the app:
+2. Get and insert Google API KEY
+3. Run the app:
    `npm run dev`
