@@ -22,7 +22,7 @@ import {
 } from 'lucide-react';
 import { WeatherData, ForecastData } from './types';
 
-const API_KEY = '0d39d85e02c81695f271a253db092ae4';
+const API_KEY = '*******************';
 
 export default function App() {
   const [city, setCity] = useState('');
