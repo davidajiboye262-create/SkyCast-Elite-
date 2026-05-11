@@ -1,7 +1,16 @@
 SkyCast Elite 🌤️✨
-A premium, high-performance weather intelligence dashboard featuring a sophisticated "Noir-Glass" aesthetic. Built with modern web technologies, SkyCast Elite provides real-time atmospheric data and extended forecasts with a focus on buttery-smooth animations and elite typography.
+# Run your Weather software
 
-To test this website
+This contains everything you need to run your app locally.
+
+Visit: https://skycast-elite.netlify.app
+
+#OR
+
+# Run Locally
+
+**Prerequisites:**  Node.js
+
 
 1. Install dependencies:
    `npm install`
